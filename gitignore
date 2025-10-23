@@ -1,0 +1,38 @@
+# ---------------------------------------------------------------- #
+# Archivos y carpetas de dependencias (Si usas JavaScript o CSS tools)
+# ---------------------------------------------------------------- #
+node_modules/
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+.cache/
+
+# ---------------------------------------------------------------- #
+# Archivos de Compilación / Salida (Si usas Bundlers/Preprocesadores)
+# ---------------------------------------------------------------- #
+/dist/
+/build/
+/out/
+/coverage/
+
+# ---------------------------------------------------------------- #
+# Archivos Temporales y de Sistema Operativo
+# ---------------------------------------------------------------- #
+.DS_Store             # macOS
+Thumbs.db             # Windows
+ehthumbs.db           # Windows
+Desktop.ini           # Windows
+
+# ---------------------------------------------------------------- #
+# Archivos de Entorno y Configuración Sensible
+# ---------------------------------------------------------------- #
+.env
+.env.*
+!.env.example         # Excluye todos los .env, pero permite .env.example
+
+# ---------------------------------------------------------------- #
+# Archivos de Editores de Código
+# ---------------------------------------------------------------- #
+.vscode/              # Carpetas de configuración de VS Code
+*.sublime-workspace   # Sublime Text
+.idea/                # WebStorm/IntelliJ
