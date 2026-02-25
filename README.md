@@ -22,18 +22,18 @@ Un sitio web moderno y atractivo para promover un destino de playa paradisíaco.
 - [Contribuciones](#-contribuciones)
 - [Licencia](#-licencia)
 
-## ✨ Características
+✨ Características
 
-- 🎨 **Diseño Moderno**: Interfaz limpia y atractiva con degradados y animaciones suaves
-- 📱 **Totalmente Responsivo**: Se adapta perfectamente a todos los dispositivos (móviles, tablets, desktop)
-- ♿ **Accesible**: Cumple con estándares WCAG 2.1 de accesibilidad
-- ⚡ **Optimizado**: Carga rápida y rendimiento optimizado
-- 🎭 **Animaciones**: Efectos visuales atractivos y profesionales
-- 🧭 **Navegación Suave**: Scroll suave entre secciones
-- 🔝 **Botón Scroll-to-Top**: Fácil navegación de vuelta al inicio
-- 🌐 **SEO Optimizado**: Meta tags y estructura semántica para mejor posicionamiento
-- 🎯 **Intersection Observer**: Animaciones activadas al hacer scroll
-- 💫 **Loading Screen**: Pantalla de carga profesional
+- 🎨 Diseño Moderno: Interfaz limpia y atractiva con degradados y animaciones suaves
+- 📱 Totalmente Responsivo: Se adapta perfectamente a todos los dispositivos (móviles, tablets, desktop)
+- ♿ Accesible: Cumple con estándares WCAG 2.1 de accesibilidad
+- ⚡ Optimizado: Carga rápida y rendimiento optimizado
+- 🎭 Animaciones: Efectos visuales atractivos y profesionales
+- 🧭 Navegación Suave: Scroll suave entre secciones
+- 🔝 Botón Scroll-to-Top: Fácil navegación de vuelta al inicio
+- 🌐 SEO Optimizado: Meta tags y estructura semántica para mejor posicionamiento
+- 🎯 Intersection Observer: Animaciones activadas al hacer scroll
+- 💫 Loading Screen: Pantalla de carga profesional
 
 ## 🎥 Demo
 
