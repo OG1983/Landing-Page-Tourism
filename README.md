@@ -45,9 +45,9 @@ El sitio incluye las siguientes secciones:
 4. **Services**: Tres categorías de servicios (Actividades, Wellness, Gastronomía)
 5. **Footer**: Información de contacto y redes sociales
 
-## 🚀 Instalación
+🚀 Instalación
 
-### Opción 1: Descarga Directa
+Opción 1: Descarga Directa
 
 1. Descarga el archivo `index.html`
 2. Abre el archivo en tu navegador web favorito
