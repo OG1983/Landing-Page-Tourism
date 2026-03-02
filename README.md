@@ -35,7 +35,7 @@ Un sitio web moderno y atractivo para promover un destino de playa paradisíaco.
 - 🎯 Intersection Observer: Animaciones activadas al hacer scroll
 - 💫 Loading Screen: Pantalla de carga profesional
 
-## 🎥 Demo
+🎥 Demo
 
 El sitio incluye las siguientes secciones:
 
