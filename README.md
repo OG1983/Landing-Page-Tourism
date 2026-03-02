@@ -1,4 +1,4 @@
-# 🏖️ Paradise Beach - Website
+ 🏖️ Paradise Beach - Website
 
 ![Version](https://img.shields.io/badge/version-2.0-blue.svg)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
@@ -7,7 +7,7 @@
 
 Un sitio web moderno y atractivo para promover un destino de playa paradisíaco. Diseñado con las mejores prácticas de desarrollo web, totalmente responsivo y con animaciones elegantes.
 
-## 📋 Tabla de Contenidos
+ 📋 Tabla de Contenidos
 
 - [Características](#-características)
 - [Demo](#-demo)
