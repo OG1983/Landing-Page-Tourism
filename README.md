@@ -54,7 +54,7 @@ Opción 1: Descarga Directa
 
 ### Opción 2: Clonar Repositorio
 
-```bash
+bash
 # Clonar el repositorio
 git clone https://github.com/tu-usuario/paradise-beach.git
 
