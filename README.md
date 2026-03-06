@@ -40,8 +40,8 @@ Un sitio web moderno y atractivo para promover un destino de playa paradisíaco.
 El sitio incluye las siguientes secciones:
 
 1. Hero Section: Imagen de fondo impactante con llamada a la acción
-2. **About**: Información sobre el destino
-3. **Experiences**: Descripción de experiencias disponibles
+2. About: Información sobre el destino
+3. Experiences: Descripción de experiencias disponibles
 4. **Services**: Tres categorías de servicios (Actividades, Wellness, Gastronomía)
 5. **Footer**: Información de contacto y redes sociales
 
