@@ -133,7 +133,7 @@ paradise-beach/
 
 ### Comparado con la versión original:
 
-#### 1. **Variables CSS**
+1. Variables CSS
 - Sistema de colores centralizado y fácil de mantener
 - Facilita cambios de tema
 
