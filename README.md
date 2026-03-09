@@ -55,13 +55,13 @@ Opción 1: Descarga Directa
 ### Opción 2: Clonar Repositorio
 
 bash
-# Clonar el repositorio
+Clonar el repositorio
 git clone https://github.com/tu-usuario/paradise-beach.git
 
-# Navegar al directorio
+Navegar al directorio
 cd paradise-beach
 
-# Abrir en el navegador
+Abrir en el navegador
 open index.html  # macOS
 start index.html # Windows
 xdg-open index.html # Linux
