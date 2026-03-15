@@ -115,9 +115,9 @@ paradise-beach/
     └── js/                # JavaScript externo (si se separa)
 ```
 
-## 🛠️ Tecnologías
+🛠️ Tecnologías
 
-- **HTML5**: Estructura semántica y moderna
+- HTML5: Estructura semántica y moderna
 - **CSS3**: 
   - Variables CSS (Custom Properties)
   - Flexbox & CSS Grid
