@@ -82,7 +82,7 @@ npx serve
 
 ## 💻 Uso
 
-### Navegación
+Navegación
 
 - Usa el menú de navegación fijo en la parte superior para moverte entre secciones
 - Haz clic en "Discover More" para explorar el contenido
