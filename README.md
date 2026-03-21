@@ -52,7 +52,7 @@ Opción 1: Descarga Directa
 1. Descarga el archivo `index.html`
 2. Abre el archivo en tu navegador web favorito
 
-### Opción 2: Clonar Repositorio
+Opción 2: Clonar Repositorio
 
 bash
 Clonar el repositorio
