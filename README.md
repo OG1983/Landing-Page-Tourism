@@ -5,7 +5,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-Un sitio web moderno y atractivo para promover un destino de playa paradisíaco. Diseñado con las mejores prácticas de desarrollo web, totalmente responsivo y con animaciones elegantes.
+Un sitio web moderno y atractivo para promover un destino de playa paradisíaco. Diseñado con las mejores prácticas de desarrollo web, totalmente responsivo y con animaciones elegantes
 
  📋 Tabla de Contenidos
 
