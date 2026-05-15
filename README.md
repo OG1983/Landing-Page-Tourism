@@ -102,7 +102,7 @@ Para personalizar el sitio, edita estas variables CSS al inicio del archivo:
 }
 ```
 
-## 📁 Estructura del Proyecto
+📁 Estructura del Proyecto
 
 ```
 paradise-beach/
