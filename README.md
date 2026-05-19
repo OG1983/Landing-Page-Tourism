@@ -80,7 +80,7 @@ npx serve
 # http://localhost:8000
 ```
 
-## 💻 Uso
+💻 Uso
 
 Navegación
 
