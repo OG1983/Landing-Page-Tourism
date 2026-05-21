@@ -88,7 +88,7 @@ Navegación
 - Haz clic en "Discover More" para explorar el contenido
 - Usa el botón flotante (↑) para volver al inicio rápidamente
 
-### Personalización Rápida
+Personalización Rápida
 
 Para personalizar el sitio, edita estas variables CSS al inicio del archivo:
 
