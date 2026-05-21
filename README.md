@@ -144,7 +144,7 @@ paradise-beach/
 - Labels descriptivos
 - Support para `prefers-reduced-motion`
 
-#### 3. **SEO**
+3. **SEO**
 - Meta tags descriptivos
 - Estructura semántica HTML5
 - Tags `alt` en elementos visuales
