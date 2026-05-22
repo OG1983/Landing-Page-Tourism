@@ -176,7 +176,7 @@ paradise-beach/
 
 ## 🎨 Personalización
 
-### Cambiar la Imagen de Fondo
+Cambiar la Imagen de Fondo
 
 Reemplaza la URL en el CSS del hero section:
 
