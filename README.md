@@ -118,7 +118,7 @@ paradise-beach/
 🛠️ Tecnologías
 
 - HTML5: Estructura semántica y moderna
-- **CSS3**: 
+- CSS3: 
   - Variables CSS (Custom Properties)
   - Flexbox & CSS Grid
   - Animaciones y transiciones
