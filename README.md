@@ -129,7 +129,7 @@ paradise-beach/
   - Smooth Scrolling
   - DOM Manipulation
 
-## 🎯 Mejoras Implementadas
+🎯 Mejoras Implementadas
 
 ### Comparado con la versión original:
 
