@@ -168,7 +168,7 @@ SEO
 - Media queries optimizadas
 - Mejor experiencia en móviles
 
-#### 7. **JavaScript Moderno**
+7. JavaScript Moderno
 - Event delegation
 - Intersection Observer API
 - Arrow functions
