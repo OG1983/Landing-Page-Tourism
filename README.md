@@ -187,7 +187,7 @@ Reemplaza la URL en el CSS del hero section:
 }
 ```
 
-### Modificar Textos
+Modificar Textos
 
 Todos los textos están en el HTML y pueden editarse directamente:
 
