@@ -137,7 +137,7 @@ paradise-beach/
 - Sistema de colores centralizado y fácil de mantener
 - Facilita cambios de tema
 
-2. **Accesibilidad Mejorada
+2. Accesibilidad Mejorada
 - Atributos ARIA apropiados
 - Skip link para navegación por teclado
 - Mejor contraste de colores
