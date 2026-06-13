@@ -216,7 +216,7 @@ No olvides agregar el enlace en la navegación:
 
 Los iconos actuales son emojis. Para usar iconos más profesionales, puedes integrar:
 
-**Font Awesome:**
+**Font Awesome:
 ```html
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 ```
