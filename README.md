@@ -123,7 +123,7 @@ paradise-beach/
   - Flexbox & CSS Grid
   - Animaciones y transiciones
   - Media queries para responsividad
-- **JavaScript Vanilla**:
+- JavaScript Vanilla:
   - Intersection Observer API
   - Event Listeners
   - Smooth Scrolling
