@@ -150,7 +150,7 @@ SEO
 - Tags `alt` en elementos visuales
 - Mejor jerarquía de headings
 
-#### 4. Rendimiento
+4. Rendimiento
 - Loading screen optimizado
 - Lazy loading con Intersection Observer
 - Transiciones suavizadas con CSS
