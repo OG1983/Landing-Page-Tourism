@@ -156,7 +156,7 @@ SEO
 - Transiciones suavizadas con CSS
 - Código JavaScript optimizado
 
-#### 5. Interactividad
+5. Interactividad
 - Navbar que cambia con el scroll
 - Botón scroll-to-top
 - Animaciones al hacer scroll
