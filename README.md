@@ -162,7 +162,7 @@ SEO
 - Animaciones al hacer scroll
 - Indicador de sección activa en navegación
 
- 6. **Responsividad
+ 6. Responsividad
 - Grid moderno para la sección de servicios
 - Uso de `clamp()` para tipografía fluida
 - Media queries optimizadas
