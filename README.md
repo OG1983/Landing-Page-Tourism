@@ -174,7 +174,7 @@ SEO
 - Arrow functions
 - Template literals
 
-## 🎨 Personalización
+🎨 Personalización
 
 Cambiar la Imagen de Fondo
 
