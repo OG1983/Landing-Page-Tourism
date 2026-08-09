@@ -245,7 +245,7 @@ Este sitio está diseñado siguiendo las pautas WCAG 2.1:
 - ✅ Soporte para lectores de pantalla
 - ✅ Respeta preferencias de movimiento reducido
 
-### Atajos de Teclado
+ Atajos de Teclado
 
 - `Tab`: Navegar entre elementos interactivos
 - `Enter/Space`: Activar enlaces y botones
