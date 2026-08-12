@@ -212,7 +212,7 @@ No olvides agregar el enlace en la navegación:
 <li><a href="#nueva-seccion">Nueva Sección</a></li>
 ```
 
-### Cambiar Iconos
+Cambiar Iconos
 
 Los iconos actuales son emojis. Para usar iconos más profesionales, puedes integrar:
 
