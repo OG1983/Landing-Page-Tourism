@@ -197,7 +197,7 @@ Todos los textos están en el HTML y pueden editarse directamente:
 <h1>Bienvenido a Tu Playa</h1>
 ```
 
-### Agregar Nuevas Secciones
+Agregar Nuevas Secciones
 
 ```html
 <section id="nueva-seccion">
