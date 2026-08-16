@@ -234,7 +234,7 @@ Los iconos actuales son emojis. Para usar iconos más profesionales, puedes inte
 - ✅ Edge (últimas 2 versiones)
 - ✅ Opera (últimas 2 versiones)
 
-## ♿ Accesibilidad
+♿ Accesibilidad
 
 Este sitio está diseñado siguiendo las pautas WCAG 2.1:
 
